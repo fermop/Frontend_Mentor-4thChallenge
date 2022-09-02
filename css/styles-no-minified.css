@@ -121,7 +121,6 @@ body{
     opacity: .75;
 }
 .footer__attribution{
-    display: none;
     color: var(--Cyan);
     font-size: 0.6875rem;
     text-align: center;
