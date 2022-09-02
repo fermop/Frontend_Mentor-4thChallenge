@@ -2,6 +2,8 @@
 
 This is a solution to the [Single price grid component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
+![sample](./assets/video/sample.gif)
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -24,13 +26,17 @@ Users should be able to:
 
 ### Screenshot
 
-![127 0 0 1_5500_Frontend_Mentor-4thChallenge_index html(iPhone 6_7_8) (1)](https://user-images.githubusercontent.com/107861444/180495073-f6279440-1022-4808-8a90-d8f94eb96720.png)
-![127 0 0 1_5500_Frontend_Mentor-4thChallenge_index html](https://user-images.githubusercontent.com/107861444/180495156-fbf8ea3a-dfdd-4e61-87fd-4b20b263274d.png)
+📱 Mobile
+
+![Mobile](./assets/images/mobile.png)
+
+💻 Desktop
+
+![Desktop](./assets/images/desktop.png)
 
 ### Links
 
-- Solution URL: [https://github.com/fermop/Frontend_Mentor-4thChallenge](https://github.com/fermop/Frontend_Mentor-4thChallenge)
-- Live Site URL: [https://fermop.github.io/Frontend_Mentor-4thChallenge/](https://fermop.github.io/Frontend_Mentor-4thChallenge/)
+- Live Site Here: [https://fermop.github.io/Frontend_Mentor-4thChallenge/](https://fermop.github.io/Frontend_Mentor-4thChallenge/)
 
 ## My process
 
@@ -39,6 +45,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Grid
+- CSS Flexbox
 - Mobile-first workflow
 - BEM methodology
 - Minified documents
@@ -54,4 +61,4 @@ Users should be able to:
 
 - Frontend Mentor - [@fermop](https://www.frontendmentor.io/profile/fermop)
 - Instagram - [fermop_](https://www.instagram.com/fermop_/)
-- Twitter - [@fermop_](https://twitter.com/fermop_)
+- Facebook - [Fernando Mojica](https://www.facebook.com/fernando.mojica.758737/)
